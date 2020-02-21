@@ -56,7 +56,7 @@
 
 /* LIMITES JUGADOR */
 	// Normal User
-#define MAX_NU_VEHICLES		2
+#define MAX_NU_VEHICLES     3
 #define MAX_NU_PROPERTIES	1
 #define MAX_NU_WORKS		1
 #define MAX_NU_TOYS			1
