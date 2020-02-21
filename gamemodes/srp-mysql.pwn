@@ -50,7 +50,7 @@
 #define CMD_LOGGIN 1 // log de comandos
 
 #define MYSQL_USER "root" //usuario mysql
-#define MYSQL_PASSWORD "Wgbarrera0328@" //contraseña mysql
+#define MYSQL_PASSWORD "Wgbarrera0328" //contraseña mysql
 #define MYSQL_DATABASE "gta" //base de datos mysql
 #define MYSQL_HOST "127.0.0.1" //host mysql
 
