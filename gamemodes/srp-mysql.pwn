@@ -52,7 +52,7 @@
 #define MYSQL_USER "root" //usuario mysql
 #define MYSQL_PASSWORD "" //contraseña mysql
 #define MYSQL_DATABASE "gta" //base de datos mysql
-#define MYSQL_HOST "localhost" //host mysql
+#define MYSQL_HOST "127.0.0.1" //host mysql
 
 /* LIMITES JUGADOR */
 	// Normal User
